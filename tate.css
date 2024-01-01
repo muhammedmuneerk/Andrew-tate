@@ -1,0 +1,108 @@
+#trw
+{
+    -webkit-text-size-adjust: 100%;
+    line-height: 20px;
+    font-size: 16px !important;
+    font-family: Spartan, sans-serif !important;
+    list-style: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    background :linear-gradient(0deg, var(--token-bf1715ec-4517-4576-a9d0-ba87cbc17f96, rgb(255, 165, 69)) /* {"name":"accent"} */ 0%, hsl(38, 100%, 64%) 100%);
+    color: #ffffff;
+    text-decoration: none;
+    padding: .5em;
+    width: 100%;
+    display: block;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    pointer-events:none;
+    
+}
+#twr{
+    -webkit-text-size-adjust: 100%;
+    line-height: 20px;
+    font-size: 16px !important;
+    font-family: Spartan, sans-serif !important;
+    list-style: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    background :#101010;
+    color: #ffffff;
+    text-decoration: none;
+    padding: .5em;
+    width: 100%;
+    display: block;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    pointer-events:none;
+}
+#hu{
+    -webkit-text-size-adjust: 100%;
+    line-height: 20px;
+    font-size: 16px !important;
+    font-family: Spartan, sans-serif !important;
+    list-style: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    background :#F84752;
+    color: #ffffff;
+    text-decoration: none;
+    padding: .5em;
+    width: 100%;
+    display: block;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    pointer-events:none;
+}
+#iska{
+    -webkit-text-size-adjust: 100%;
+    line-height: 20px;
+    font-size: 16px !important;
+    font-family: Spartan, sans-serif !important;
+    list-style: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    background :#ff0000;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 1em;
+    width: 100%;
+    display: block;
+    margin-top: .1em;
+    pointer-events:none;
+    
+}
+#po{
+    -webkit-text-size-adjust: 100%;
+    line-height: 20px;
+    font-size: 16px !important;
+    font-family: Spartan, sans-serif !important;
+    list-style: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    background-image: linear-gradient(113deg, #ff0f2b, #ffb20f);
+    color: #ffffff;
+    text-decoration: none;
+    padding: 1em;
+    width: 100%;
+    display: block;
+    margin-top:4em;
+    pointer-events:none;
+    
+}
+#tv{
+    -webkit-text-size-adjust: 100%;
+    line-height: 20px;
+    font-size: 16px !important;
+    font-family: Spartan, sans-serif !important;
+    list-style: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    color:#000000;
+    text-decoration: none;
+    padding: 1em;
+    width: 100%;
+    display: block;
+    margin-top: 2em;
+    pointer-events:none;
+}
